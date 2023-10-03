@@ -10,6 +10,8 @@ JavaScript; React;
 
 Hook UseState()
 
+Functional component;
+
 Styled Components;
 Global style;
 
