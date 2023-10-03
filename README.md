@@ -1,5 +1,9 @@
 Консоль
 
+
+![Alt text](image.png)
+
+
 Технологии:
 
 JavaScript; React;
@@ -12,4 +16,3 @@ Global style;
 
 
 
-![Alt text](image.png)
